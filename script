@@ -1,4 +1,4 @@
-FOV = FOV or 30;
+FOV = FOV or 17;
 HIT_PARTS = HIT_PARTS or { "Head", "Torso" };
 
 -- variables
